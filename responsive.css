@@ -1,0 +1,14 @@
+@media(max-width:768px){
+
+.header-nav .nav-list a{
+    font-size: 14px;
+    padding: 10px 0px;
+    margin-right: 10px;
+}
+.pickup .container{
+    display: block;
+}
+.content{
+    display: block;
+}
+}
